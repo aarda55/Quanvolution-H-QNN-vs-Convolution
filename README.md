@@ -3,8 +3,8 @@
 
 --------------------------------------------------------------------------------
 
-purpose of project:
+# Purpose of project:
 
-  The purpose of this project is to test the theoretical possibility of usage of (simulated) quantum layers to enhance the accuracy of CNN models. In addition general research of quantum layers with pennylane was done.
+The purpose of this project is to test the theoretical possibility of usage of (simulated) quantum layers to enhance the accuracy of CNN models. In addition general research of quantum layers with pennylane was done.
 
 ------------------------------------------------------------------------------------
